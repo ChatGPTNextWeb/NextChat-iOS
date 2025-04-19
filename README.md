@@ -1,6 +1,12 @@
 
 # NextChatIOS
 
+## 🥳 Cheer for NextChat iOS Version Online!
+ > [ 👉 Click Here Install Now](https://apps.apple.com/us/app/nextchat-ai/id6743085599)
+
+![Github iOS Image](https://github.com/user-attachments/assets/e0aa334f-4c13-4dc9-8310-e3b09fa4b9f3)
+
+
 ## Demo Show
 
 <div align="center">
@@ -9,9 +15,7 @@
 
 ## Opensource Plan
 
-我们计划将所有iOS代码库开源，目标日期为 **2025年3月30日**。
-
-开源将促进协作和创新。
+我们计划将所有iOS代码库开源，开源将促进协作和创新。
 
 ### 如何参与
 
